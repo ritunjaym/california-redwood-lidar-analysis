@@ -92,4 +92,3 @@ Dependencies automatically installed via pip within notebook.
 ---
 
 *This project demonstrates practical solutions for large-scale geospatial data challenges commonly encountered in environmental research and conservation technology.*
-```
