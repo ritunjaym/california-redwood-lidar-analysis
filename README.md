@@ -22,9 +22,9 @@ Processing California's statewide forest inventory dataset presents significant 
 ## Technical Implementation
 
 ### Core Processing Pipeline
-```
+
 S3 Dataset (11,076 files) → Parallel Metadata Extraction → Geographic Filtering → Analysis Ready (2,634 files)
-```
+
 
 ### Key Technologies
 - **Geospatial**: Rasterio, GeoPandas for coordinate transformations and spatial analysis
